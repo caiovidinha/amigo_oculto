@@ -1,0 +1,4 @@
+ADMIN
+- cadastrar o amigo oculto
+- cadastrar o GRUPO
+- cadastrar as pessoas
