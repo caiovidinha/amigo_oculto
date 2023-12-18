@@ -2,3 +2,18 @@ ADMIN
 - cadastrar o amigo oculto
 - cadastrar o GRUPO
 - cadastrar as pessoas
+
+
+SITE
+- tela de login
+- tela de buffer para sorteio
+- tela de exibição do resultado
+
+
+REGRAS:
+- a prova de idosos kkkkk
+- senha única para admin
+- o evento pode ou não ser agrupado
+- login por cpf
+- os matchs não podem ficar visíveis no banco de dados
+- todos os matchs serão realizados antes do evento
